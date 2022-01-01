@@ -1,10 +1,10 @@
-# Hi there 👋. My name is Noel Covarrubias and I'm a self-taught Front-End Developer.
+# Hi there 👋. My name is Noel Covarrubias and I'm a self-taught Software Engineer.
 
 ### I'm currently looking for a job and looking to grow my network as well.
 If you'd like to talk/work with me make sure to let me know via [Twitter](https://twitter.com/noel_codes) or [LinkedIn.](https://www.linkedin.com/in/noelcodes/)
 You can also visit my [Website](https://www.noelcodes.dev/)
 
-### Besides programming I enjoy to play video games, read and spend time with my girlfriend. 
+### Besides programming I enjoy to play video games, read and learning in general. 
 ---
 
 **Current Skills:**
@@ -12,14 +12,16 @@ You can also visit my [Website](https://www.noelcodes.dev/)
 - HTML/CSS
 - JavaScript
 - React
-- Next.JS/Gatsby JS
-- TypeScript
+- NextJS
+- SQL
+- MongoDB
+- C#
 - Python
 - Node/Express
 
 **Learning:**
 
-- WordPress
+- DSA
 
 <!--
 **NoelCov/NoelCov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
