@@ -1,7 +1,7 @@
 # Hi there 👋. My name is Noel Covarrubias and I'm a self-taught Software Engineer.
 
 ### I'm currently part of the Leap Apprenticeship Program offered by Microsoft.
-If you'd like to contact me make sure to let me know via [Twitter](https://twitter.com/noel_codes) or [LinkedIn.](https://www.linkedin.com/in/noelcodes/)
+If you'd like to contact me, you can do so via [Twitter](https://twitter.com/noel_codes) and/or [LinkedIn.](https://www.linkedin.com/in/noelcodes/)
 You can also visit my [Website](https://www.noelcodes.dev/)
 
 ### Besides programming I enjoy to play video games, read and learning in general. 
@@ -21,7 +21,8 @@ You can also visit my [Website](https://www.noelcodes.dev/)
 
 **Learning:**
 
-- DSA
+- Typescript
+- Rust
 
 <!--
 **NoelCov/NoelCov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
