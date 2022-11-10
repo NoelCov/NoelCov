@@ -1,10 +1,9 @@
 # Hi there 👋. My name is Noel Covarrubias and I'm a self-taught Software Engineer.
 
-### I'm currently part of the Leap Apprenticeship Program offered by Microsoft.
+### I'm currently a SWE at Clover!
 If you'd like to contact me, you can do so via [Twitter](https://twitter.com/noel_codes) and/or [LinkedIn.](https://www.linkedin.com/in/noelcodes/)
-You can also visit my [Website](https://www.noelcodes.dev/)
 
-### Besides programming I enjoy to play video games, read and learning in general. 
+### Besides programming I enjoy playing video games, reading and learning in general. 
 ---
 
 **Current Skills:**
@@ -15,14 +14,11 @@ You can also visit my [Website](https://www.noelcodes.dev/)
 - NextJS
 - SQL
 - MongoDB
-- C#
 - Python
 - Node/Express
 
 **Learning:**
-
-- Typescript
-- Rust
+- Java
 
 <!--
 **NoelCov/NoelCov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
