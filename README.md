@@ -6,7 +6,7 @@ Software Engineer
 
 I am a self-taught programmer, went from working at a warehouse to making this my career! I started my journey in late 2020 and broke into tech through a Microsoft apprenticeship called LEAP in early 2022. My main stack at the moment is Java, Spring Boot for the back-end and NextJS/React for the front-end.
 
-* 🖥️  See my portfolio at [noelcodes.dev/](https://www.noelcodes.dev/)
+* 🖥️  See my portfolio at [www.noelcodes.dev/](https://www.noelcodes.dev/)
 * ✉️  You can contact me at [no3lcodes@gmail.com](mailto:no3lcodes@gmail.com)
 * 🤝  I'm open to collaborating on anything, really!
 
