@@ -6,7 +6,7 @@ I am a self-taught programmer with a focus on backend. I went from working at a 
 *   🌍  I'm based in California and I'm open to relocate anywhere!
 *   🖥️  See my portfolio at [www.noelcodes.dev/](https://www.noelcodes.dev/)
 *   ✉️  You can contact me at [no3lcodes@gmail.com](mailto:no3lcodes@gmail.com)
-*   🧠  I'm learning LeetCode (Working on Grind75) and you can see my progress in this [repository](https://github.com/NoelCov/Grind75).
+*   🧠  I'm learning LeetCode (working on [Grind75](https://www.techinterviewhandbook.org/grind75), you can see my progress in this [repository](https://github.com/NoelCov/Grind75).
 *   🤝  I'm open to collaborating on backend projects and any programming projects related to space and gaming!
 
 ### I work with this tech 
