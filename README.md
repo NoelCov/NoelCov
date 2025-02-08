@@ -12,10 +12,10 @@ Hey there, I'm a self-taught dev that loves back-end shit. I went from working a
 
 ### Learning
 - Golang :D
+- Currently reading "The Software Engineer's Guidebook (10/10 book)
 
 ### My socials
 <p align="left">      
-<a href="https://https://no3lcodes.hashnode.dev/.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/noelcodes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/noel_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
