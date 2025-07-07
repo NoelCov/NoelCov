@@ -11,8 +11,8 @@ Hey there, I'm a self-taught dev that loves back-end shit. I went from working a
 - I don't like front-end but know my way around HTML/CSS/JS
 
 ### Learning
-- Golang :D
-- Currently reading "The Software Engineer's Guidebook (10/10 book)
+- Golang :D (Working on projects, solving leetcode with it)
+- Reading "Designing Data Intensive Applications"
 
 ### My socials
 <p align="left">      
